@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="论文查重:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="论文查重.jar">
+      <element id="module-output" name="论文查重" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jieba-analysis-master/out/artifacts/jieba_analysis_master_jar/jieba-analysis-master.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../commons-io-2.11.0/commons-io-2.11.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

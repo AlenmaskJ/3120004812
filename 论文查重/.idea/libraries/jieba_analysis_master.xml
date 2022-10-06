@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jieba-analysis-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jieba-analysis-master/out/artifacts/jieba_analysis_master_jar/jieba-analysis-master.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
